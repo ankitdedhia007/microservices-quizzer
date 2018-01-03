@@ -1,0 +1,8 @@
+com\microservices\tutorial\model\TriviaQuestionAccessible.class
+com\microservices\tutorial\model\TriviaQuestionBuilder.class
+com\microservices\tutorial\util\GitRepositoryState.class
+com\microservices\tutorial\vo\TriviaQuestion.class
+com\microservices\tutorial\endpoints\TriviaQuestionEndpoint.class
+com\microservices\tutorial\model\TriviaQuestionArrayAccess.class
+com\microservices\tutorial\TriviaApp.class
+com\microservices\tutorial\util\RepositoryUtils.class
